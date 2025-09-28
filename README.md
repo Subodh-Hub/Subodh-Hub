@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Subodh Rijal</h1>
 <h3 align="center">A passionate fullstack Web Developer from Nepal</h3>
-<img align="right" width="400px" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" width="400px" src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTkwMTk3NDEsIm5iZiI6MTc1OTAxOTQ0MSwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTI4VDAwMzA0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU1NzQyZDM2NDc3ZGY1MTliYTgzYjQyMjU3OGJlZjk2YTRlN2E4M2UzZTk4OWVkMTQyNThkYjEyMmE2MGNiNmQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Pe8-__iAVzhrSCrM66uNPQ7U6BXyv1i3_wXnkfLTCFA">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subodh-hub&label=Profile%20views&color=0e75b6&style=flat" alt="subodh-hub" /> </p>
 
 - 🌱 I’m currently learning **PHP, Python, JavaScript & React**
